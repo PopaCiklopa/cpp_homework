@@ -5,7 +5,7 @@
 void zadanie1();
 void zadanie2();
 void zadanie3();
-//voi
+//vo
 
 int main() {
 	SetConsoleCP(1251);
