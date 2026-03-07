@@ -35,8 +35,11 @@ void zadanie1() {
 	}
 
 
-	if (sum_right = sum_left) {
+	if (sum_right == sum_left) {
 		std::cout << "¬аши числа €вл€ютс€ счастливыми!";
+	}
+	else {
+		std::cout << "¬аши числа не €вл€ютс€ счастливыми!";
 	}
 
 }
